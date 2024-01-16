@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/E4ARE3H/Dropbox/My PC (LAPTOP-UB5KO9RL)/Desktop/SOP/Member/User/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/E4ARE3H/Dropbox/My PC (LAPTOP-UB5KO9RL)/Desktop/SOP/Member/User/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/E4ARE3H/Dropbox/My PC (LAPTOP-UB5KO9RL)/Desktop/SOP/Member/User/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\E4ARE3H\\Dropbox\\My PC (LAPTOP-UB5KO9RL)\\Desktop\\SOP\\Member\\User\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\E4ARE3H\\Dropbox\\My PC (LAPTOP-UB5KO9RL)\\Desktop\\SOP\\Member\\User\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/E4ARE3H/Dropbox/My PC (LAPTOP-UB5KO9RL)/Desktop/SOP/Member/User/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/E4ARE3H/Dropbox/My PC (LAPTOP-UB5KO9RL)/Desktop/SOP/Member/User/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/E4ARE3H/Dropbox/My PC (LAPTOP-UB5KO9RL)/Desktop/SOP/Member/User/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\E4ARE3H\\Dropbox\\My PC (LAPTOP-UB5KO9RL)\\Desktop\\SOP\\Member\\User\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
