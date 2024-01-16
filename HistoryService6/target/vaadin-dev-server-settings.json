@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/aombun/Documents/sop_project/HistoryService6/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/aombun/Documents/sop_project/HistoryService6/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/aombun/Documents/sop_project/HistoryService6/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/aombun/Documents/sop_project/HistoryService6/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/aombun/Documents/sop_project/HistoryService6/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/aombun/Documents/sop_project/HistoryService6/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/aombun/Documents/sop_project/HistoryService6/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/aombun/Documents/sop_project/HistoryService6/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/aombun/Documents/sop_project/HistoryService6/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

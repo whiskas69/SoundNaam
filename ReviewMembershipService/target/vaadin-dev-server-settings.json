@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/anpanprang/Sop/ReviewMembershipService/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/anpanprang/Sop/ReviewMembershipService/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/anpanprang/Sop/ReviewMembershipService/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/anpanprang/Sop/ReviewMembershipService/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/anpanprang/Sop/ReviewMembershipService/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/anpanprang/Sop/ReviewMembershipService/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/anpanprang/Sop/ReviewMembershipService/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/anpanprang/Sop/ReviewMembershipService/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/anpanprang/Sop/ReviewMembershipService/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
