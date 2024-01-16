@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/folk/Documents/UnSub/Membership/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/folk/Documents/UnSub/Membership/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/folk/Documents/UnSub/Membership/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/folk/Documents/UnSub/Membership/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/folk/Documents/UnSub/Membership/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/folk/Documents/UnSub/Membership/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/folk/Documents/UnSub/Membership/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/folk/Documents/UnSub/Membership/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/folk/Documents/UnSub/Membership/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
