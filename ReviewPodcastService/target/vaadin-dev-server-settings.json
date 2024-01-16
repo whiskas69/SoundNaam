@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/anpanprang/Sop/ReviewPodcastService/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/anpanprang/Sop/ReviewPodcastService/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/anpanprang/Sop/ReviewPodcastService/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/anpanprang/Sop/ReviewPodcastService/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/anpanprang/Sop/ReviewPodcastService/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/anpanprang/Sop/ReviewPodcastService/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/anpanprang/Sop/ReviewPodcastService/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/anpanprang/Sop/ReviewPodcastService/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/anpanprang/Sop/ReviewPodcastService/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
